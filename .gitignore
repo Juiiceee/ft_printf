@@ -1,0 +1,4 @@
+printfTester
+*.out
+main.c
+test.c
